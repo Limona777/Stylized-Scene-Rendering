@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\stylized scene rendering\\stylish ocean rendering\\assets\\shader\\toonwater.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\toonwater.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\stylized scene rendering\\stylish ocean rendering\\assets\\shader\\stylizedbeach.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\stylizedbeach.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\stylized scene rendering\\stylish ocean rendering\\assets\\shader\\selfskybox_ocean_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\selfskybox_ocean_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\stylized scene rendering\\stylish ocean rendering\\assets\\scripts\\water_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\assets\\scripts\\planarreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planarreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\assets\\scripts\\buoyancysimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buoyancysimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\assets\\scripts\\buoyancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA47DF95-BB14-223C-C03B-17DB729EA6EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buoyancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToonWater.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Shader\\ToonWater.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\ToonWater.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Shader\\ToonWater.shader",
+              "RelativeToolTip": "Assets\\Shader\\ToonWater.shader",
+              "ViewState": "AQIAADUBAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T14:09:10.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StylizedBeach.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Shader\\StylizedBeach.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\StylizedBeach.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Shader\\StylizedBeach.shader",
+              "RelativeToolTip": "Assets\\Shader\\StylizedBeach.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T14:05:11.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelfSkybox_Ocean_Time.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Shader\\SelfSkybox_Ocean_Time.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\SelfSkybox_Ocean_Time.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Shader\\SelfSkybox_Ocean_Time.shader",
+              "RelativeToolTip": "Assets\\Shader\\SelfSkybox_Ocean_Time.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-01T14:02:35.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Water_Manager.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\Water_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water_Manager.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\Water_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water_Manager.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAowJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:59:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanarReflection.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\PlanarReflection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlanarReflection.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\PlanarReflection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlanarReflection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:57:18.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuoyancySimulator.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\BuoyancySimulator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuoyancySimulator.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\BuoyancySimulator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuoyancySimulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:55:18.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuoyancyController.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\BuoyancyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuoyancyController.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Stylish Ocean Rendering\\Assets\\Scripts\\BuoyancyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuoyancyController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T13:51:16.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

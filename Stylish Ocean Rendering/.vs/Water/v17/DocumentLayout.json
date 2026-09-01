@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\project\\Water\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\shader\\toonwater.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\toonwater.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\shader\\stylizedbeach.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\stylizedbeach.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\scripts\\water_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\scripts\\buoyancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buoyancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|d:\\unity\\project\\water\\assets\\scripts\\buoyancysimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buoyancysimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unity\\project\\water\\assets\\scripts\\realisticboatfloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\realisticboatfloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\shader\\water_mask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\water_mask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\shader\\selfskybox_as.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\selfskybox_as.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\shader\\selfskybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\selfskybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\shader\\water.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\water.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|D:\\unity\\project\\Water\\assets\\scripts\\planarreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CAFBC-9F8C-B6C7-E3E6-4C53297877ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planarreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuoyancySimulator.cs",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Scripts\\BuoyancySimulator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuoyancySimulator.cs",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Scripts\\BuoyancySimulator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuoyancySimulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T13:10:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Water_Mask.shader",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Shader\\Water_Mask.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Water_Mask.shader",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Shader\\Water_Mask.shader",
+              "RelativeToolTip": "Assets\\Shader\\Water_Mask.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-08-09T11:11:07.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuoyancyController.cs",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Scripts\\BuoyancyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuoyancyController.cs",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Scripts\\BuoyancyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuoyancyController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv1cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T09:38:29.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StylizedBeach.shader",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Shader\\StylizedBeach.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\StylizedBeach.shader",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Shader\\StylizedBeach.shader",
+              "RelativeToolTip": "Assets\\Shader\\StylizedBeach.shader",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAswHIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-08-08T15:49:27.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelfSkybox.shader",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Shader\\SelfSkybox.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\SelfSkybox.shader",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Shader\\SelfSkybox.shader",
+              "RelativeToolTip": "Assets\\Shader\\SelfSkybox.shader",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAYwBsBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-07T06:17:01.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelfSkybox_AS.shader",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Shader\\SelfSkybox_AS.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\SelfSkybox_AS.shader",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Shader\\SelfSkybox_AS.shader",
+              "RelativeToolTip": "Assets\\Shader\\SelfSkybox_AS.shader",
+              "ViewState": "AQIAAKEBAAAAAAAAAAAcwMABAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-07T05:44:51.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Water_Manager.cs",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Scripts\\Water_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water_Manager.cs",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Scripts\\Water_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water_Manager.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwv8wAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T09:03:47.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlanarReflection.cs",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Scripts\\PlanarReflection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlanarReflection.cs",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Scripts\\PlanarReflection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlanarReflection.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAA7wN0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T09:09:05.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToonWater.shader",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Shader\\ToonWater.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\ToonWater.shader",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Shader\\ToonWater.shader",
+              "RelativeToolTip": "Assets\\Shader\\ToonWater.shader",
+              "ViewState": "AQIAADoBAAAAAAAAAAAswGcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-06T08:45:50.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RealisticBoatFloat.cs",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Scripts\\RealisticBoatFloat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RealisticBoatFloat.cs",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Scripts\\RealisticBoatFloat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RealisticBoatFloat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T11:48:14.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Water.shader",
+              "DocumentMoniker": "D:\\unity\\project\\Water\\Assets\\Shader\\Water.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Water.shader",
+              "ToolTip": "D:\\unity\\project\\Water\\Assets\\Shader\\Water.shader",
+              "RelativeToolTip": "Assets\\Shader\\Water.shader",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAowNsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-01T13:42:30.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
