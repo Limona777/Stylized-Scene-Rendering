@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\stylized scene rendering\\realistic style desert rendering\\assets\\shader\\heatwavepostprocess.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\heatwavepostprocess.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\terrain_renderdepth.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\terrain\\terrain_renderdepth.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\surface_terraineffector.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\terrain\\surface_terraineffector.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\surface_renderterrain_tess.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\terrain\\surface_renderterrain_tess.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\rescaleinputshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\terrain\\rescaleinputshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\renderterrain_tess.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\terrain\\renderterrain_tess.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\renderterrain_debug.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\terrain\\renderterrain_debug.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\receiveterrain.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\terrain\\receiveterrain.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\stylized scene rendering\\realistic style desert rendering\\assets\\shader\\skybox\\selfskybox_desert_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\skybox\\selfskybox_desert_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\scripts\\terraindeformcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terraindeformcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\scripts\\terraincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terraincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\scripts\\heatwaveeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heatwaveeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\scripts\\enabledepthtexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2DF253-3193-42C0-C418-AEB4FDD10FE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enabledepthtexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\assets\\shader\\terrain\\sandreceiveterrain.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\shader\\terrain\\sandreceiveterrain.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\stylized scene rendering\\realistic style desert rendering\\assets\\shader\\skybox\\desertskybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\shader\\skybox\\desertskybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeatWavePostProcess.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\HeatWavePostProcess.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\HeatWavePostProcess.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\HeatWavePostProcess.shader",
+              "RelativeToolTip": "Assets\\Shader\\HeatWavePostProcess.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T13:05:08.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelfSkybox_Desert_Time.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Skybox\\SelfSkybox_Desert_Time.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Skybox\\SelfSkybox_Desert_Time.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Skybox\\SelfSkybox_Desert_Time.shader",
+              "RelativeToolTip": "Assets\\Shader\\Skybox\\SelfSkybox_Desert_Time.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJICAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T12:46:10.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DesertSkybox.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Skybox\\DesertSkybox.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Skybox\\DesertSkybox.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Skybox\\DesertSkybox.shader",
+              "RelativeToolTip": "Assets\\Shader\\Skybox\\DesertSkybox.shader",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T12:43:03.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceiveTerrain.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\ReceiveTerrain.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\ReceiveTerrain.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\ReceiveTerrain.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\ReceiveTerrain.shader",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:18:45.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TerrainDeformCollider.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\TerrainDeformCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TerrainDeformCollider.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\TerrainDeformCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TerrainDeformCollider.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:52:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TerrainCamera.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\TerrainCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TerrainCamera.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\TerrainCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TerrainCamera.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAUwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:52:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SandReceiveTerrain.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\SandReceiveTerrain.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\SandReceiveTerrain.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\SandReceiveTerrain.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\SandReceiveTerrain.shader",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAQwMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:30:04.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Surface_TerrainEffector.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\Surface_TerrainEffector.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\Surface_TerrainEffector.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\Surface_TerrainEffector.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\Surface_TerrainEffector.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:21:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Surface_RenderTerrain_Tess.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\Surface_RenderTerrain_Tess.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\Surface_RenderTerrain_Tess.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\Surface_RenderTerrain_Tess.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\Surface_RenderTerrain_Tess.shader",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:21:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RescaleInputShader.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\RescaleInputShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\RescaleInputShader.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\RescaleInputShader.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\RescaleInputShader.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:20:42.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenderTerrain_Tess.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\RenderTerrain_Tess.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\RenderTerrain_Tess.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\RenderTerrain_Tess.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\RenderTerrain_Tess.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP8BAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:20:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RenderTerrain_DEBUG.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\RenderTerrain_DEBUG.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\RenderTerrain_DEBUG.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\RenderTerrain_DEBUG.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\RenderTerrain_DEBUG.shader",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:19:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terrain_RenderDepth.shader",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\Terrain_RenderDepth.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Terrain\\Terrain_RenderDepth.shader",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Shader\\Terrain\\Terrain_RenderDepth.shader",
+              "RelativeToolTip": "Assets\\Shader\\Terrain\\Terrain_RenderDepth.shader",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-02T09:22:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeatWaveEffect.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\HeatWaveEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeatWaveEffect.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\HeatWaveEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeatWaveEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T08:51:57.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnableDepthTexture.cs",
+              "DocumentMoniker": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\EnableDepthTexture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnableDepthTexture.cs",
+              "ToolTip": "E:\\\u7533\u7855\u4F5C\u54C1\u96C6github\\Stylized Scene Rendering\\Realistic Style Desert Rendering\\Assets\\Scripts\\EnableDepthTexture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnableDepthTexture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T08:51:34.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
