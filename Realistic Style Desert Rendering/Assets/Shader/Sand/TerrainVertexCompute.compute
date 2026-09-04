@@ -1,0 +1,55 @@
+#pragma kernel TerrainDeform
+
+struct VertexInput
+{
+    float3 position;
+    float2 uv;
+};
+
+struct VertexOutput
+{
+    float3 position;
+};
+
+StructuredBuffer<VertexInput> vertexBufferIn;
+RWStructuredBuffer<VertexOutput> vertexBufferOut;
+
+Texture2D<float> heightMap;
+SamplerState sampler_heightMap;
+
+float maxHeight;
+uint vertexCount;
+float hasHeightTexture;
+
+[numthreads(32, 1, 1)]
+void TerrainDeform(uint3 id : SV_DispatchThreadID)
+{
+    uint vertexIndex = id.x;
+
+    if (vertexIndex >= vertexCount)
+        return;
+    
+    VertexInput input = vertexBufferIn[vertexIndex];
+
+    float2 flippedUV = float2(input.uv.x, 1.0 - input.uv.y);
+    
+    float heightValue = 0.5;
+
+    if (hasHeightTexture > 0.5)
+    {
+        heightValue = heightMap.SampleLevel(sampler_heightMap, flippedUV, 0);
+    }
+    else
+    {
+        float dist = distance(input.position.xz, float2(0, 0));
+        heightValue = sin(dist * 2.0) * 0.5 + 0.5;
+    }
+
+    float displacement = saturate(1.0 - heightValue) * maxHeight;
+    
+    VertexOutput output;
+    output.position = input.position;
+    output.position.y -= displacement;
+    
+    vertexBufferOut[vertexIndex] = output;
+}
