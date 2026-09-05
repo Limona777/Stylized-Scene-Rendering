@@ -5,7 +5,6 @@
 [![Platform](https://img.shields.io/badge/Platform-PC-blue)]()
 [![Engine](https://img.shields.io/badge/Engine-Unity-orange)]()
 [![Language](https://img.shields.io/badge/Language-C%23%20%2F%20HLSL%20%2F%20Cg%20%2F%20ShaderLab-green)]()
-[![Role](https://img.shields.io/badge/Role-Independent%20Development-purple)]()
 
 ---
 
@@ -34,7 +33,7 @@ All visual systems are implemented through custom ShaderLab shaders and C# scrip
 | Category | Details |
 |---|---|
 | **Platform** | PC (Windows / macOS) |
-| **Engine** | Unity |
+| **Engine** | Unity 2022.3.34 |
 | **Programming Language** | C# / HLSL / Cg (ShaderLab) |
 | **Render Pipeline** | Built-in Render Pipeline |
 | **Role** | Independent Development |
@@ -54,7 +53,7 @@ A dynamic skybox shader written in Unity ShaderLab, designed for desert scenes. 
 - Highly customizable via a large set of adjustable parameters and toggle switches for each effect layer.
 
 #### Interactive Sand
-A real-time terrain deformation system composed of the `TerrainCamera` C# script and custom shaders, based on depth detection:
+A real-time terrain deformation system composed of the C# script and custom shaders, based on depth detection:
 - An orthographic camera captures the scene from above, using a replacement shader to render objects with a specific tag into a depth map.
 - Results are accumulated into two alternating `RenderTexture`s, blending the previous height map with the current frame's depth each frame to record impressions and particle accumulation.
 - The shader reads the dynamic height map, drives vertex displacement along the Y-axis, and reconstructs normals from neighboring-pixel height differences.
@@ -97,24 +96,19 @@ A **submersion-degree buoyancy model** for floating objects:
 
 | Package | Version | Purpose |
 |---|---|---|
-| Unity Built-in Render Pipeline | — | Core rendering |
+| Unity Built-in Render Pipeline / Universal Render Pipeline | 2022.3.34 | Core rendering |
 | No third-party packages required | — | Pure shader / script-based solution |
 
 ---
 
 ## References
 
-### Project Repository
-- **Stylized Scene Rendering** — GitHub. https://github.com/Limona777/Stylized-Scene-Rendering
+## References
 
-### Academic & Technical Foundations
-- **Oren-Nayar Reflectance Model** — Oren, M., & Nayar, S. K. (1994). *Generalization of the Lambertian model and implications for machine vision*. International Journal of Computer Vision, 14(3), 227–251.
-- **Cook-Torrance Specular BRDF** — Cook, R. L., & Torrance, K. E. (1982). *A reflectance model for computer graphics*. ACM SIGGRAPH Computer Graphics, 15(3), 307–316.
-- **Rayleigh & Mie Atmospheric Scattering** — Hosek, L., & Wilkie, A. (2012). *An analytic model for full spectral sky-dome radiance*. ACM SIGGRAPH.
+- **Interactable Sand** — Stomakhin A, Schroeder C, Chai L, et al. A material point method for snow simulation[J]. ACM Transactions on Graphics (TOG), 2013, 32(4): 1-9.
+- **Oren-Nayar Reflectance Model** — Nayar S K, Oren M. Generalization of the Lambertian model and implications for machine vision[J]. International Journal on Computer Vision, 1995, 14(3): 227-251.
+- **Rayleigh & Mie Atmospheric Scattering** — Hosek L, Wilkie A. An analytic model for full spectral sky-dome radiance[J]. ACM Transactions on Graphics (TOG), 2012, 31(4): 1-9.
 
-### Implementation Inspiration
-- **Planar Reflection (Water)** — Unity Community / Standard Assets water implementation reference.
-- **Heat Wave Distortion (Speed Lines / Refraction)** — bzyzhang. *练习项目(十四)：速度线效果的实现*. Zhihu. https://zhuanlan.zhihu.com/p/427866097
+- [unity 风格化水面着色 - AniMystic的文章 - 知乎](https://zhuanlan.zhihu.com/p/5030208394)
 
-### Art Reference
-- Stylized natural scene construction (desert, ocean, beach) — original art direction.
+- [unity沙漠场景和昼夜程序化天空盒子 - ysr的文章 - 知乎](https://zhuanlan.zhihu.com/p/617469065)
