@@ -109,6 +109,4 @@ A **submersion-degree buoyancy model** for floating objects:
 - **Oren-Nayar Reflectance Model** — Nayar S K, Oren M. Generalization of the Lambertian model and implications for machine vision[J]. International Journal on Computer Vision, 1995, 14(3): 227-251.
 - **Rayleigh & Mie Atmospheric Scattering** — Hosek L, Wilkie A. An analytic model for full spectral sky-dome radiance[J]. ACM Transactions on Graphics (TOG), 2012, 31(4): 1-9.
 
-- [unity 风格化水面着色 - AniMystic的文章 - 知乎](https://zhuanlan.zhihu.com/p/5030208394)
-
 - [unity沙漠场景和昼夜程序化天空盒子 - ysr的文章 - 知乎](https://zhuanlan.zhihu.com/p/617469065)
